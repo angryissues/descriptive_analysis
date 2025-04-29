@@ -1,0 +1,7 @@
+# IDE / system files
+.DS_Store
+__pycache__/
+venv/
+
+# Kaggle credentials
+kaggle.json
